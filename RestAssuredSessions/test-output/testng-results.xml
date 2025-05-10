@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3939" started-at="2025-03-21T20:07:51Z" finished-at="2025-03-21T20:07:55Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="2528" started-at="2025-03-21T20:07:51Z" finished-at="2025-03-21T20:07:54Z">
+      <class name="day8.ChainingCreateUser">
+        <test-method status="PASS" signature="createUser(org.testng.ITestContext)[pri:0, instance:day8.ChainingCreateUser@4667ae56]" name="createUser" duration-ms="2503" started-at="2025-03-21T20:07:51Z" finished-at="2025-03-21T20:07:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@131276c2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- day8.ChainingCreateUser -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="397" started-at="2025-03-21T20:07:54Z" finished-at="2025-03-21T20:07:54Z">
+      <class name="day8.ChainingGetUser">
+        <test-method status="PASS" signature="getUser(org.testng.ITestContext)[pri:0, instance:day8.ChainingGetUser@6e06451e]" name="getUser" duration-ms="397" started-at="2025-03-21T20:07:54Z" finished-at="2025-03-21T20:07:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4584304]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- day8.ChainingGetUser -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="371" started-at="2025-03-21T20:07:54Z" finished-at="2025-03-21T20:07:54Z">
+      <class name="day8.ChainingUpdateUser">
+        <test-method status="PASS" signature="updateUser(org.testng.ITestContext)[pri:0, instance:day8.ChainingUpdateUser@1ed4004b]" name="updateUser" duration-ms="364" started-at="2025-03-21T20:07:54Z" finished-at="2025-03-21T20:07:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3869a6e5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- day8.ChainingUpdateUser -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="276" started-at="2025-03-21T20:07:54Z" finished-at="2025-03-21T20:07:55Z">
+      <class name="day8.ChainingGetUser2">
+        <test-method status="PASS" signature="getUser(org.testng.ITestContext)[pri:0, instance:day8.ChainingGetUser2@4bec1f0c]" name="getUser" duration-ms="272" started-at="2025-03-21T20:07:54Z" finished-at="2025-03-21T20:07:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5c0ece6d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- day8.ChainingGetUser2 -->
+    </test> <!-- Test4 -->
+    <test name="Test5" duration-ms="319" started-at="2025-03-21T20:07:55Z" finished-at="2025-03-21T20:07:55Z">
+      <class name="day8.ChainingDeleteUser">
+        <test-method status="PASS" signature="deleteUser(org.testng.ITestContext)[pri:0, instance:day8.ChainingDeleteUser@192b07fd]" name="deleteUser" duration-ms="319" started-at="2025-03-21T20:07:55Z" finished-at="2025-03-21T20:07:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@446a692f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- day8.ChainingDeleteUser -->
+    </test> <!-- Test5 -->
+  </suite> <!-- Suite -->
+</testng-results>
